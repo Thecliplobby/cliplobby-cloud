@@ -1,0 +1,6 @@
+{
+  "name":"cliplobby-cloud","version":"0.1.0","private":true,
+  "scripts":{"dev":"next dev","build":"next build","start":"next start"},
+  "dependencies":{"next":"^15.5.0","react":"^19.1.0","react-dom":"^19.1.0","openai":"^5.20.0","cloudinary":"^2.7.0"},
+  "devDependencies":{}
+}
